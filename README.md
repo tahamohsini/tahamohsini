@@ -10,6 +10,7 @@ As a **visiting faculty member at the University of Karachi**, I teach programmi
 
 I specialize in delivering **innovative solutions** that simplify complex problems, emphasizing performance optimization, clean architecture, and user-focused design.
 
+More About Me: [tahamohsini.vercel.app](https://tahamohsini.vercel.app)
 ---
 
 ## 🔭 What I'm Currently Working On  

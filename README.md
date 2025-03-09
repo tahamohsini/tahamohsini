@@ -10,7 +10,7 @@ As a **visiting faculty member at the University of Karachi**, I teach programmi
 
 I specialize in delivering **innovative solutions** that simplify complex problems, emphasizing performance optimization, clean architecture, and user-focused design.
 
-More About Me: [tahamohsini.vercel.app](https://tahamohsini.vercel.app)
+More About Me: [tahamohsini.com](https://tahamohsini.com)
 
 ---
 
@@ -63,7 +63,7 @@ Here’s what I love working with:
 
 ## 📫 How to Reach Me  
 
-- **Website**: [tahamohsini.vercel.app](https://tahamohsini.vercel.app)  
+- **Website**: [tahamohsini.com](https://tahamohsini.com)  
 - **Email**: taha2000mohammad@gmail.com  
 - **LinkedIn**: [linkedin.com/in/tahamohsini](https://linkedin.com/in/tahamohsini)  
 

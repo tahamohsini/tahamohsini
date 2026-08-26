@@ -4,15 +4,9 @@
 
 I build and scale production software across frontend, backend, and AI-enabled workflows — from problem definition through shipping and operation.
 
-[tahamohsini.com](https://tahamohsini.com) · [LinkedIn](https://linkedin.com/in/tahamohsini) · [Mentorship](https://topmate.io/tahamohsini)
-
 ---
 
 **12+** products shipped · **5+** years building software · **60+** mentorship sessions · **25+** sessions & talks
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahamohsini&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamohsini&layout=compact&langs_count=6&hide_border=true&theme=tokyonight)
-![GitHub streak](https://streak-stats.demolab.com/?user=tahamohsini&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -23,7 +17,7 @@ I take ownership across the stack: TypeScript and Python, APIs and data models, 
 Right now that looks like:
 
 - End-to-end product engineering and applied AI at **[Ezra AI](https://ezra-ai.com)**
-- Education and operations products I own ([365bootcamp](https://365bootcamp.com), IBS)
+- Education and operations products I own: [365bootcamp](https://365bootcamp.com) and [IBS](https://ibs.tahamohsini.com)
 - Speaking, including **Frontend Nation 2026**
 
 ## How I build
@@ -44,17 +38,18 @@ Understand the problem → design the simplest system that holds → ship for pr
 
 I teach through real systems, not slides alone.
 
-## This GitHub
-
-Selected work that shows how I think about architecture, APIs, and teaching — including [MockServerDemo](https://github.com/tahamohsini/MockServerDemo) (local mock backends so frontend work does not wait on a shared environment).
-
-The fuller product story lives on [tahamohsini.com](https://tahamohsini.com).
-
 ## Happy to talk about
 
 - Full-stack product engineering and system design
 - Practical AI in production web products
 - Mentorship, teaching, and developer community work
+
+## Reach me
+
+- Website: [tahamohsini.com](https://tahamohsini.com)
+- LinkedIn: [linkedin.com/in/tahamohsini](https://linkedin.com/in/tahamohsini)
+- Mentorship: [topmate.io/tahamohsini](https://topmate.io/tahamohsini)
+- Email: [taha2000mohammad@gmail.com](mailto:taha2000mohammad@gmail.com)
 
 ---
 

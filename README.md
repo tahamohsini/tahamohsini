@@ -10,23 +10,9 @@ I build and scale production software across frontend, backend, and AI-enabled w
 
 **12+** products shipped · **5+** years building software · **60+** mentorship sessions · **25+** sessions & talks
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tahamohsini&show_icons=true&hide_rank=true&hide_border=true&count_private=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb&bg_color=0d1117"
-    alt="GitHub stats for tahamohsini"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamohsini&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=38bdf8&text_color=e5e7eb&bg_color=0d1117"
-    alt="Top languages for tahamohsini"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tahamohsini&hide_border=true&background=0d1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=e5e7eb&dates=9ca3af&stroke=1f2937"
-    alt="GitHub streak for tahamohsini"
-  />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahamohsini&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamohsini&layout=compact&langs_count=6&hide_border=true&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com/?user=tahamohsini&theme=tokyonight&hide_border=true)
 
 ---
 

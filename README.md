@@ -1,119 +1,75 @@
-# 👋 Hi, I’m Mohammad Taha Mohsini
+# Mohammad Taha Mohsini
 
-💻 Software Engineer · 🅰️ Angular & Web Specialist · 🤖 Applied AI Advocate  
-🎤 Speaker · 🧑‍🏫 Educator · 🌍 Community Mentor
+**Senior Product Engineer** · Full-Stack Systems · Applied AI
 
----
+I build and scale production software across frontend, backend, and AI-enabled workflows — from problem definition through shipping and operation.
 
-I’m a **full-stack software engineer with ~5 years of hands-on experience**, focused on building **scalable web applications** and **mentoring developers through real-world learning**.
-
-My core strengths lie in **Angular, TypeScript, and modern web architecture**, with growing focus on **practical AI integration in web products**. I enjoy working at the intersection of **engineering depth, product thinking, and developer education**.
-
-Alongside industry work, I actively contribute to the developer ecosystem as a **speaker, mentor, and visiting faculty**, helping students and professionals bridge the gap between theory and real-world systems.
-
-🌐 More about me: https://tahamohsini.com  
+[tahamohsini.com](https://tahamohsini.com) · [LinkedIn](https://linkedin.com/in/tahamohsini) · [Mentorship](https://topmate.io/tahamohsini)
 
 ---
 
-## 🧑‍🏫 Community, Teaching & Mentorship
+**12+** products shipped · **5+** years building software · **60+** mentorship sessions · **25+** sessions & talks
 
-- Visiting faculty at the **University of Karachi**, teaching programming and core CS concepts
-- Mentor and speaker at **GDG hackathons, DevFest conferences, and community events**
-- Delivered talks, workshops, and mentorship sessions to **50–2000+ learners**
-- Regularly guide developers on:
-  - Problem framing & solution design
-  - Frontend architecture and maintainability
-  - Integrating AI meaningfully into applications
-  - Career growth and industry readiness
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tahamohsini&show_icons=true&hide_rank=true&hide_border=true&count_private=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb&bg_color=0d1117"
+    alt="GitHub stats for tahamohsini"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamohsini&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=38bdf8&text_color=e5e7eb&bg_color=0d1117"
+    alt="Top languages for tahamohsini"
+  />
+</p>
 
-I strongly believe in **learning by building** and **teaching through real examples**, not slides alone.
-
----
-
-## 🅰️ Angular & Web Expertise
-
-I specialize in:
-- Angular application architecture
-- Component design and state management
-- Debugging, performance optimization, and scalability
-- Building maintainable frontend systems for real products
-
-My experience spans **Angular, React, Next.js**, and backend frameworks like **NestJS and FastAPI**, enabling me to mentor teams across the full stack.
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tahamohsini&hide_border=true&background=0d1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=e5e7eb&dates=9ca3af&stroke=1f2937"
+    alt="GitHub streak for tahamohsini"
+  />
+</p>
 
 ---
 
-## 🤖 Applied AI Focus
+## What I work on
 
-My AI work is **practical, product-driven, and beginner-friendly**:
-- Mentoring teams in AI hackathons and build-with-AI events
-- Helping developers integrate AI into web apps (not just demos)
-- Speaking on AI adoption, careers, and real-world impact
-- Exploring AI-powered features that enhance user experience
+I take ownership across the stack: TypeScript and Python, APIs and data models, modern web apps, and practical AI features that have to behave predictably in production.
 
----
+Right now that looks like:
 
-## 🔭 What I’m Currently Working On
+- End-to-end product engineering and applied AI at **[Ezra AI](https://ezra-ai.com)**
+- Education and operations products I own ([365bootcamp](https://365bootcamp.com), IBS)
+- Speaking, including **Frontend Nation 2026**
 
-- **Real-time web systems** (live updates, communication, access control)
-- **Scalable backend services** using NestJS, FastAPI, and PostgreSQL
-- **Modern frontends** with Angular, React, and Next.js
-- **Teaching-oriented demos** for Angular and Web + AI use cases
+## How I build
 
----
+Understand the problem → design the simplest system that holds → ship for production → observe and improve.
 
-## 🌱 What I’m Currently Learning
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js, Angular
+- **Backend:** Node.js, NestJS, FastAPI
+- **Data:** PostgreSQL, Redis
+- **Practices:** type-safe systems, testing, performance, maintainable architecture
 
-- Advanced frontend and system **design patterns**
-- **Software architecture** for scale and maintainability
-- Responsible and effective **AI integration in web applications**
+## Community
 
----
+- Visiting faculty at the **University of Karachi**
+- Mentor and speaker with **GDG**, DevFest, hackathons, and campus programs
+- Mentorship on product thinking, full-stack architecture, production AI, and career growth
 
-## 🛠️ Technologies I Work With
+I teach through real systems, not slides alone.
 
-- **Languages:** JavaScript, TypeScript, Python  
-- **Frontend:** Angular, React, Next.js  
-- **Backend:** NestJS, FastAPI  
-- **Databases:** PostgreSQL  
-- **Practices:** Clean architecture, performance optimization, scalable systems  
+## This GitHub
 
----
+Selected work that shows how I think about architecture, APIs, and teaching — including [MockServerDemo](https://github.com/tahamohsini/MockServerDemo) (local mock backends so frontend work does not wait on a shared environment).
 
-## 📂 What You’ll Find in This GitHub
+The fuller product story lives on [tahamohsini.com](https://tahamohsini.com).
 
-- Angular demo and starter projects  
-- Web architecture examples  
-- AI + Web integration samples  
-- Teaching-oriented repositories designed for learning and mentoring  
+## Happy to talk about
 
-All projects aim to be **clear, practical, and reusable**.
+- Full-stack product engineering and system design
+- Practical AI in production web products
+- Mentorship, teaching, and developer community work
 
 ---
 
-## 👯 Open to Collaborate On
-
-- Angular and Web-focused open-source projects
-- Developer education initiatives
-- AI-powered web applications with real use cases
-- Community-driven tech programs
-
----
-
-## 💬 Ask Me About
-
-- Angular & frontend architecture
-- Full-stack system design
-- AI integration in web products
-- Mentorship, teaching, and tech career growth
-
----
-
-## 📫 Reach Me
-
-- 🌐 Website: https://tahamohsini.com  
-- 💼 LinkedIn: https://linkedin.com/in/tahamohsini  
-- 🧑‍🏫 Mentorship: https://topmate.io/tahamohsini  
-
----
-
-*Always happy to mentor, collaborate, and contribute to the developer community.*
+Always happy to mentor, compare notes, and build things that last.

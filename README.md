@@ -17,7 +17,7 @@ I take ownership across the stack: TypeScript and Python, APIs and data models, 
 Right now that looks like:
 
 - End-to-end product engineering and applied AI at **[Ezra AI](https://ezra-ai.com)**
-- Education and operations products I own: [365bootcamp](https://365bootcamp.com) and [IBS](https://ibs.tahamohsini.com)
+- Education and operations products I own: [365bootcamp](https://365bootcamp.com) and [IBS](https://ibs.tahamohsini.dev)
 - Speaking, including **Frontend Nation 2026**
 
 ## How I build
@@ -46,7 +46,7 @@ I teach through real systems, not slides alone.
 
 ## Reach me
 
-- Website: [tahamohsini.com](https://tahamohsini.com)
+- Website: [tahamohsini.dev](https://tahamohsini.dev)
 - LinkedIn: [linkedin.com/in/tahamohsini](https://linkedin.com/in/tahamohsini)
 - Mentorship: [topmate.io/tahamohsini](https://topmate.io/tahamohsini)
 - Email: [taha2000mohammad@gmail.com](mailto:taha2000mohammad@gmail.com)
